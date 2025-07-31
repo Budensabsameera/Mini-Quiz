@@ -77,3 +77,10 @@ document.addEventListener("DOMContentLoaded", () => {
     output.innerHTML = `you got ${count}/3`;
   });
 });
+
+
+
+
+
+
+
